@@ -1,0 +1,11 @@
+:root {
+    /* COLORS */
+    --text: #141414;
+    --background: #576f35;
+    --background-2: #7a3145;
+    --background-3: #622133;
+    --main-text: #fbfbfb;
+
+    /* FONTS */
+    --font-family: "Inter Tight", sans-serif;
+}

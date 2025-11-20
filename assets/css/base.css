@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-family);
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    cursor: pointer;
+}
+
+.container {
+    max-width: 1144px;
+    margin: 0 auto;
+    padding: 0 32px;
+}
